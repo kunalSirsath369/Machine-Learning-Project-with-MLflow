@@ -1,5 +1,5 @@
 pandas 
-mlflow
+mlflowgir
 notebook
 numpy
 scikit-learn
