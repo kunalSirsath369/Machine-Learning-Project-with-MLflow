@@ -96,3 +96,6 @@ dmypy.json
 # Windows specific
 Thumbs.db
 desktop.ini
+
+
+artifacts/*
